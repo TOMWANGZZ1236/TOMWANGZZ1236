@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Cantonese open source project words.hk(https://cantowords.com/) <br>👯 I’m looking to collaborate on mobile app, web app, or anything software related!<br>🌱 I’m currently learning React<br>💬 Ask me about React, Flutter<br>⚡ Fun fact I play 6 sports<br>📫 How to reach me t35wang@uwaterloo.ca
+🔭 I’m currently working on a Cantonese open source project [words.hk](https://github.com/AlienKevin/wordshk_app) <br>👯 I’m looking to collaborate on mobile app, web app, or anything software related!<br>🌱 I’m currently learning React<br>💬 Ask me about React, Flutter<br>⚡ Fun fact I play 6 sports<br>📫 How to reach me t35wang@uwaterloo.ca
 
 
 ## 🌐 Socials:
